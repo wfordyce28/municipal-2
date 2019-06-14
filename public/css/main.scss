@@ -1,0 +1,14 @@
+@import "top";
+@import "bottom";
+@import "content";
+@import "bottom-left";
+@import "bottom-right";
+
+#outer{
+  display:flex;
+  width: 1350px;
+  height: 1500px;
+  flex-direction: column;
+  margin-left: -10px;
+  margin-top: -8px;
+}

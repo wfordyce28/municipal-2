@@ -1,0 +1,11 @@
+@media only screen and (min-width: 2560px) {
+
+  #middle-bottom {
+    display: flex;
+    background-color: white;
+    width: 1350px;
+    height: 1270px;
+    flex-direction: row;
+  }
+}
+/*# sourceMappingURL=bottom.css.map */

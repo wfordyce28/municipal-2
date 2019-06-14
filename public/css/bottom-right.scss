@@ -1,0 +1,106 @@
+#mdright{
+  display: flex;
+  width: 425px;
+  height: 1270px;
+  flex-direction: column;
+}
+
+#report{
+  display: flex;
+  height: 240px;
+  width: 425px;
+  justify-content: center;
+  align-content: center;
+  padding-top: 70px;
+}
+
+#report-button{
+  display: flex;
+  width: 260px;
+  height: 115px;
+  background-image: url("../IMAGES/speech_bubbles_me_too_1050x700.jpg");
+  font-family: Arial;
+  justify-content: center;
+  color: white;
+  border-radius: 12px;
+  padding-top: 60px;
+  border: 1px solid grey;
+}
+
+#report-button:hover{
+  background-image: url("../IMAGES/speech_bubbles_me_too_1050x700 2.jpg");
+}
+
+#signup{
+  display: flex;
+  border: 1px solid grey;
+  height: 550px;
+  width: 425px;
+  flex-direction: column;
+  border-radius: 5px;
+}
+
+#title{
+  width: 425px;
+  height: 100px;
+  font-family: Arial;
+  display: flex;
+  justify-content: center;
+}
+
+#list{
+  display: flex;
+  justify-content: center;
+  font-family: Arial;
+  flex-direction: column;
+  align-content: center;
+}
+
+#one{
+  width: 425px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+}
+
+#two{
+  width: 425px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+}
+
+#three{
+  width: 425px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+}
+
+#four{
+  width: 425px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+}
+
+#five{
+  width: 425px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+}
+
+#six{
+  width: 425px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+}
+
+#seven{
+  width: 425px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,22 @@
+#mdleft{
+  display: flex;
+  width: 925px;
+  height: 1270px;
+  flex-direction: column;
+}
+
+#mdleft-top{
+  display: flex;
+  width: 925px;
+  height: 635px;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#mdleft-bottom{
+  display: flex;
+  width: 925px;
+  height: 635px;
+  justify-content: center;
+  flex-direction: column;
+}
